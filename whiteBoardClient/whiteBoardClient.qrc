@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/circle.jpg</file>
+        <file>res/path.jpg</file>
+        <file>res/rec.jpg</file>
+        <file>res/trangle.jpg</file>
+        <file>res/line.jpg</file>
+        <file>res/erase.jpg</file>
+        <file>res/arrow.jpg</file>
+        <file>res/close.jpg</file>
+        <file>res/resize.jpg</file>
+        <file>res/rotate.jpg</file>
+    </qresource>
+</RCC>
